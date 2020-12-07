@@ -1,4 +1,5 @@
-# [Watch online]()
+# [Watch online webpack](https://borisbutenko.github.io/payterra_test_task/dist/webpack)
+## [Watch online static](https://borisbutenko.github.io/payterra_test_task/dist/static)
 
 # How to run
 ```
