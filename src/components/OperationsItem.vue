@@ -3,7 +3,7 @@ li.operations-item
     details.operations-item__details
         summary.operations-item__summary
             header.operations-item__header
-                span.operations-item__title {{ title }} <b>{{ event_id }}</b>
+                span.operations-item__title {{ title }}: <b>{{ event_id }}</b>
                 span.operations-item__amount(:class="isRefund ? 'negative' : 'positive'") {{ amountRUB }}
             footer.operations-item__footer
                 time.operations-item__time {{ time }}
